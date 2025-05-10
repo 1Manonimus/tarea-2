@@ -1,31 +1,28 @@
 #include <stdio.h>
-#include <math.h>
 
 int main()
 {
-int n1;
-int n2;
-double di;
+int a;
+int b;
+printf("Ingresa dos números se dira si el número es divisible entre otro.\n");
+printf("Ingresar un número;\n");
+scanf("%d",&a);
+printf("Ingresa otro número;\n");
+scanf("%d",&b);
 
-    
-    printf("Se dira si el primer número es divisible entre el segundo número.\n");
-    printf("Número 1; \n");
-    scanf("%d",&n1);
-    printf("Número 2; \n");
-    scanf("%d",&n2);
-
-di=n1/n2;
-
-
-if(di == floor(di))
+if(a%b==0)
 {
-    printf("%d ",n1); 
-    printf("es divisible entre %d\n",n2);
+    printf("Los números son divisibles.\n");
 }
 else
+    {
+        printf("Los números no son divisibles.\n");
+    }
+    
+if (b==0)
 {
-    printf("%d ",n1); 
-    printf("no es divisible entre %d\n",n2);
+    printf("División sobre cero, es invalida.\n");
 }
+
     return 0;
 }
