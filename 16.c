@@ -1,3 +1,4 @@
+//Construir un diagrama de flujo para almacenar en un arreglo unidimensional los 100 primeros números pares. Imprimir al final el arreglo.
 #include <stdio.h>
 
 int main()
