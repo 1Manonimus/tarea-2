@@ -1,3 +1,5 @@
+//Una persona invierte en un banco una determinada cantidad de dinero y a una cierta tasa de inter ́es mensual. Construya un diagrama de flujo que permita obtener el monto de dinero que obtendr ́a al finalizar el mes.
+
 #include <stdio.h>
 
 int main()
