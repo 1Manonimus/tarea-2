@@ -6,7 +6,7 @@ int main()
     int sum;
     int cont=0;
     int i;
-printf("La suma de los números pares comprendidos en los primeros 50 números es;\n");
+printf("La suma de los números pares comprendidos entre 10 y 50 ;\n");
 
 for(i=10;i<=50;i++)
 {
@@ -20,4 +20,5 @@ for(i=10;i<=50;i++)
 printf("%d",sum);
 
     return 0;
+}
 }
