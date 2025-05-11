@@ -1,4 +1,4 @@
-//Construir un diagrama de flujo tal que dado el radio de un c ́ırculo, calcule e imprima el  ́area y la circunferencia. El  ́area del c ́ırculo se calcula como Area = π ∗ radio2 y la circunferencia se calcula como Circunferencia = 2 ∗ π ∗ radio.
+//Construir un diagrama de flujo tal que, dado el radio de un círculo, calcule e imprima el área y la circunferencia. El ́área del círculo se calcula como Área = π ∗ radio2 y la circunferencia se calcula como Circunferencia = 2 ∗ π ∗ radio.
 #include <stdio.h>
 #include <math.h>
 
