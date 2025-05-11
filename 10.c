@@ -1,3 +1,4 @@
+//Construya un diagrama de flujo que lea 100 números naturales y cuentecuántos de ellos son positivos, negativos o nulos.
 #include <stdio.h>
 
 int main()
