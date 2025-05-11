@@ -12,7 +12,7 @@ int contnu=0;
 int nulos=0;
 printf("Ingrese 100 números, se contara cuantos son positivos, cuantos son negativos y cuantos son nulos.\n");
 
-for(i=1; i<=10; i++)
+for(i=1; i<=100; i++)
 {
     printf("valor ");
     printf("%d:\n",i);
