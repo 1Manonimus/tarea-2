@@ -1,3 +1,4 @@
+//Construir un diagrama de flujo que pueda determinar, dados dos números enteros, si un número es divisor del otro.
 #include <stdio.h>
 
 int main()
