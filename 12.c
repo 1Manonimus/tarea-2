@@ -1,3 +1,4 @@
+//Hacer un diagrama de flujo que calcule e imprima el producto de los N primeros números naturales.
 #include <stdio.h>
 
 int main()
