@@ -1,3 +1,6 @@
+//construya un programa tal que dado como entrada un arreglo unidimensional de enteros y un n ́umero entero, determine cuántas veces se encuentra
+
+el n ́umero dentro del arreglo.
 #include <stdio.h>
 
 int main()
